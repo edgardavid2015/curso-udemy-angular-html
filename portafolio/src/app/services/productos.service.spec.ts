@@ -1,13 +1,13 @@
 import { TestBed } from '@angular/core/testing';
 
-import { SafeUrl.PipeService } from './safe-url.pipe.service';
+import { ProductosService } from './productos.service';
 
-describe('SafeUrl.PipeService', () => {
-  let service: SafeUrl.PipeService;
+describe('ProductosService', () => {
+  let service: ProductosService;
 
   beforeEach(() => {
     TestBed.configureTestingModule({});
-    service = TestBed.inject(SafeUrl.PipeService);
+    service = TestBed.inject(ProductosService);
   });
 
   it('should be created', () => {
