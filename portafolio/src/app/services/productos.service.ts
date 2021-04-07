@@ -42,7 +42,6 @@ export class ProductosService {
   }
 
   private filtrarProductos(termino:string){
-    console.log(this.productos);
     this.productosFiltrado = [];
     termino = termino.toLowerCase();
     this.productos.forEach(prod =>{

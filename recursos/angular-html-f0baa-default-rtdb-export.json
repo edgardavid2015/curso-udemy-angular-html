@@ -1,0 +1,21 @@
+{
+  "equipo" : [ {
+    "cargo" : "Director",
+    "frase" : "Ser la mejor empresa del mercado.",
+    "nombre" : "Juan Burbano",
+    "twitter" : "@juanbur21",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-f0baa.appspot.com/o/director.jpg?alt=media&token=4e3759bb-30fd-4bfe-8649-bf86ab319c84"
+  }, {
+    "cargo" : "Administrador",
+    "frase" : "Mejores empleados, mejor rendimiento.",
+    "nombre" : "Luis Diaz",
+    "twitter" : "@luisdaz",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-f0baa.appspot.com/o/genio.jpg?alt=media&token=6bf7471d-9942-4a71-a068-7961b591eceb"
+  }, {
+    "cargo" : "Gerente",
+    "frase" : "Empresa con sentido humano.",
+    "nombre" : "Raul Torres",
+    "twitter" : "@raultorres1",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-f0baa.appspot.com/o/gerente.jpg?alt=media&token=9103ef59-6cf6-4e26-b515-0e3efed37d9f"
+  } ]
+}
